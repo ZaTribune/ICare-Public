@@ -1,4 +1,4 @@
-# I-Care-public
+# I-Care
 Search, find the all medical services around you to get your most desirable health care .
 <p align="center">
   <img src="screenshots/1.jpg" height="300"/>
