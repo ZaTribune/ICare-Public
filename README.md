@@ -30,7 +30,8 @@ cost, because the hospital industry is a growing business.
 &nbsp;&nbsp;&nbsp;&nbsp;**Java** - The Main Programming Language and Framework.  
 &nbsp;&nbsp;&nbsp;&nbsp;**Andoid SDK** - Software Platform for creating and delivering Android Applications.   
 &nbsp;&nbsp;&nbsp;&nbsp;**Android Studio** - Java IDE.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Gradle** - Build tool & Dependency Management.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Gradle** - Build tool & Dependency Management.
+&nbsp;&nbsp;&nbsp;&nbsp;**Retrofit** - A type-safe REST client for Android and Java.
 
 ## Authors  
    **Muhammad Ali Arafah** - find me on : [Twitter](https://twitter.com/ZaTribune), [LinkedIn](https://www.linkedin.com/in/zatribune).  
