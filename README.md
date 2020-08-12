@@ -1,10 +1,16 @@
 # I-Care-public
 Search, find the all medical services around you to get your most desirable health care .
 <p align="center">
-  <img src="screenshots/logo.png" height="300"/>
-  <img src="screenshots/splashscreen.jpg" height="300"/>
-  <img src="screenshots/progress encoding.jpg" height="300"/>
+  <img src="screenshots/1.jpg" height="300"/>
 </p>
+<p align="center">
+  <img src="screenshots/2.jpg" height="300"/>
+  <img src="screenshots/3.jpg" height="300"/>
+  <img src="screenshots/5.jpg" height="300"/>
+  <img src="screenshots/4.jpg" height="300"/>
+</p>
+
+https://docs.google.com/viewer?url=https://github.com/ZaTribune/I-Care-public/tree/master/screenshots/end.pdf
 
 ## Overview  
 Welcome to I-Care !
@@ -30,7 +36,7 @@ cost, because the hospital industry is a growing business.
 &nbsp;&nbsp;&nbsp;&nbsp;**Java** - The Main Programming Language and Framework.  
 &nbsp;&nbsp;&nbsp;&nbsp;**Andoid SDK** - Software Platform for creating and delivering Android Applications.   
 &nbsp;&nbsp;&nbsp;&nbsp;**Android Studio** - Java IDE.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Gradle** - Build tool & Dependency Management.
+&nbsp;&nbsp;&nbsp;&nbsp;**Gradle** - Build tool & Dependency Management.  
 &nbsp;&nbsp;&nbsp;&nbsp;**Retrofit** - A type-safe REST client for Android and Java.
 
 ## Authors  
