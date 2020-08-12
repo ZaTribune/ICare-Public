@@ -1,7 +1,7 @@
 # I-Care
 Search, find the all medical services around you to get your most desirable health care .
 <p align="center">
-  <img src="screenshots/1.jpg" height="300"/>
+  <a href="screenshots/end.pdf" class="image fit">PDF Preview</br><img src="screenshots/1.jpg" alt="" height="300"></a>
 </p>
 <p align="center">
   <img src="screenshots/2.jpg" height="300"/>
@@ -15,6 +15,7 @@ Search, find the all medical services around you to get your most desirable heal
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
 
 ## Overview  
 Welcome to I-Care !
