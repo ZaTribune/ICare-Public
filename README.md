@@ -1,7 +1,15 @@
 # I-Care
 Search, find the all medical services around you to get your most desirable health care .
 <p align="center">
-  <a href="screenshots/end.pdf" class="image fit">PDF Preview</br><img src="screenshots/1.jpg" alt="" height="300"></a>
+  <object data="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf">
+       <a href="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf">Download PDF</a>
+    </embed>
+  </object>
+  <br/>
+  <a href="screenshots/end.pdf" class="image fit"><img src="screenshots/1.jpg" alt="" height="300">
+</a>
+
 </p>
 <p align="center">
   <img src="screenshots/2.jpg" height="300"/>
@@ -9,13 +17,6 @@ Search, find the all medical services around you to get your most desirable heal
   <img src="screenshots/5.jpg" height="300"/>
   <img src="screenshots/4.jpg" height="300"/>
 </p>
-
-<object data="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf">
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ZaTribune/I-Care-Public/tree/master/screenshots/end.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 
 ## Overview  
 Welcome to I-Care !  
