@@ -18,34 +18,23 @@ Search, find the all medical services around you to get your most desirable heal
 
 
 ## Overview  
-Welcome to I-Care !
-Quick and easy to use: Download Android App to find a nearby Doctor or
-Specialist and book an appointment instantly!
+Welcome to I-Care !  
+Quick and easy to use: Download Android App to find nearby healthcare services.  
 Booking an appointment with the doctor of your choice using your smartphone
-is a common thing in the developed parts of the world.
+is a common thing in the developed parts of the world.  
+You can even see doctors' schedules (if a doctor is subscribed to our system) and book an appointment instantly! in 3 simple steps
+- Search for a Doctor.  
+- Pick/Call for an Appointment (sometimes, only contact details would be available).  
+- Verify Appointment.  
 
-## Key Features
-* It has just 3 simple steps as Search for a Doctor, Pick an Appointment , Verify
-Appointment . It is a mobile app , so patients can
-book appointments from anywhere.
-* This App helps patients to book appointments with doctors instantly, whether in the
-location or any other location.
-* We developed I-Care to help doctors start the business features with minimum
-cost, because the hospital industry is a growing business.
-* And of course, a responsive design, pretty nice performance, support for Android from API Level 16 .
+Other healthcare services would also include:
+- pharmacies (case you needed to acquire any pharmacuitecals).  
+- medical analysis labs (to follow up your Medical Diagnostics).  
 
-## Android Support
- minSdkVersion 16
- 
-## Built With  
-&nbsp;&nbsp;&nbsp;&nbsp;**Java** - The Main Programming Language and Framework.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Andoid SDK** - Software Platform for creating and delivering Android Applications.   
-&nbsp;&nbsp;&nbsp;&nbsp;**Android Studio** - Java IDE.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Gradle** - Build tool & Dependency Management.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Retrofit** - A type-safe REST client for Android and Java.
+Also, We developed I-Care (Web Portal) to help doctors start utilizing modern health business features with minimum
+cost, because hospital industry is a growing business.  
+And of course, this application has a responsive design, pretty nice performance.  
 
 ## Authors  
-   **Muhammad Ali Arafah** - find me on : [Twitter](https://twitter.com/ZaTribune), [LinkedIn](https://www.linkedin.com/in/zatribune).  
-
-## Acknowledgments
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Muhammad%20Ali)](https://linkedin.com/in/zatribune) 
 
